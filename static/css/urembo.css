@@ -1,0 +1,19 @@
+h2{
+    color: aqua;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 35px;
+    text-decoration-line: line-through;
+}
+td,th{
+    border: 2px solid blue;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    color: brown;
+}

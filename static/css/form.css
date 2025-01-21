@@ -1,0 +1,47 @@
+#email{
+    font: 28px;
+    color: #ffffff;
+    text-align: center;
+    background-color: rgba(12, 12, 12, 0.96);
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid black;
+
+}
+#pass{
+    background-color: rgba(12, 12, 12, 0.96);
+    color: rgb(255, 255, 255);
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid black;
+    text-align: center;
+}
+#fname{
+    background-color: #020e1e;
+    color: #ffffff;
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid black;
+    text-align: center;
+}
+#lname{
+    background-color: rgba(12, 12, 12, 0.96);
+    color: #ffffff;
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid black;
+    text-align: center;
+}
+#date{
+    background-color: rgba(12, 12, 12, 0.96);
+    color: #ffffff;
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid black;
+    text-align: center;
+}
+form{
+    background-color: #ffffff;
+
+}
+
